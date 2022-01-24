@@ -9,4 +9,6 @@ var config = {
 };
 firebase.initializeApp(config);
 
+alert('TEST');
+
 var CLIENT_ID = null;
